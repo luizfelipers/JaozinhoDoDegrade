@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 37e3cf69416a52e4387322e332df59f0
+timeCreated: 1510896648
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: teste joaozinho do degrade-04_0
+    21300002: teste joaozinho do degrade-04_1
+    21300004: teste joaozinho do degrade-04_2
+    21300006: teste joaozinho do degrade-04_3
+    21300008: teste joaozinho do degrade-04_4
+    21300010: teste joaozinho do degrade-04_5
+    21300012: teste joaozinho do degrade-04_6
+    21300014: teste joaozinho do degrade-04_7
+    21300016: teste joaozinho do degrade-04_8
+    21300018: teste joaozinho do degrade-04_9
+    21300020: teste joaozinho do degrade-04_10
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teste joaozinho do degrade-04_0
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 579
+        width: 279
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teste joaozinho do degrade-04_1
+      rect:
+        serializedVersion: 2
+        x: 1352.2852
+        y: 1298.1677
+        width: 281.55225
+        height: 385.09375
+      alignment: 9
+      pivot: {x: 0.5407019, y: 0.08010713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teste joaozinho do degrade-04_2
+      rect:
+        serializedVersion: 2
+        x: 1233.8966
+        y: 1083.3447
+        width: 60.793945
+        height: 152.61377
+      alignment: 9
+      pivot: {x: 0.5749944, y: 0.84855527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teste joaozinho do degrade-04_3
+      rect:
+        serializedVersion: 2
+        x: 1425.175
+        y: 920.6551
+        width: 178.9021
+        height: 316.1219
+      alignment: 9
+      pivot: {x: 0.50767964, y: 0.49615288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teste joaozinho do degrade-04_4
+      rect:
+        serializedVersion: 2
+        x: 1750.7587
+        y: 1033.9158
+        width: 74.46924
+        height: 176.057
+      alignment: 9
+      pivot: {x: 0.33593366, y: 0.8792866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teste joaozinho do degrade-04_5
+      rect:
+        serializedVersion: 2
+        x: 1173.0281
+        y: 835.2122
+        width: 74.46924
+        height: 172.1499
+      alignment: 9
+      pivot: {x: 0.6021913, y: 0.8725628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teste joaozinho do degrade-04_6
+      rect:
+        serializedVersion: 2
+        x: 1378.6564
+        y: 694.05835
+        width: 86.19092
+        height: 201.4541
+      alignment: 9
+      pivot: {x: 0.46054956, y: 0.84016776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teste joaozinho do degrade-04_7
+      rect:
+        serializedVersion: 2
+        x: 1585.6661
+        y: 676.7643
+        width: 86.19092
+        height: 201.4541
+      alignment: 9
+      pivot: {x: 0.44194818, y: 0.8537637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teste joaozinho do degrade-04_8
+      rect:
+        serializedVersion: 2
+        x: 1754.8744
+        y: 802.34784
+        width: 68.60828
+        height: 164.33545
+      alignment: 9
+      pivot: {x: 0.34836552, y: 0.85338384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teste joaozinho do degrade-04_9
+      rect:
+        serializedVersion: 2
+        x: 1356.3779
+        y: 356.2882
+        width: 94.00537
+        height: 213.17578
+      alignment: 9
+      pivot: {x: 0.5410704, y: 0.8980219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teste joaozinho do degrade-04_10
+      rect:
+        serializedVersion: 2
+        x: 1569.4342
+        y: 338.81042
+        width: 94.00537
+        height: 211.2221
+      alignment: 9
+      pivot: {x: 0.5266786, y: 0.87763584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 99018083542950
+  assetBundleName: 
+  assetBundleVariant: 
